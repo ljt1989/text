@@ -1,0 +1,682 @@
+[
+	{
+		"title": "服装鞋帽",
+		"cont": {
+			"side": {
+				"bt": [
+					{
+						"name": "男装",
+						"href": "#"
+					}, {
+						"name": "女装",
+						"href": "#"
+					}, {
+						"name": "运动鞋",
+						"href": "#"
+					}, {
+						"name": "腰带",
+						"href": "#"
+					}, {
+						"name": "袜子袜裤",
+						"href": "#"
+					}, {
+						"name": "钟表首饰",
+						"href": "#"
+					}
+				],
+				"bg": "img/shop/side/1k.jpg",
+				"href": "#"
+			},
+			"main": [
+				{
+					"href": "#",
+					"img": "img/shop/main/31ab3817-cf84-4c82-a469-2e068431ddea.jpg",
+					"name": "COOREENA 韩版七分袖棉圆领系带麻衬衣 5083 X",
+					"price": "￥99"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/1517dc50-f798-431f-bfe6-c5600a02c899.jpg",
+					"name": "COOREENA 复古印花修身气质棉麻连衣裙 2016XJ",
+					"price": "￥139"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/201dd431-8cfc-43fa-98e0-e430f4c30bb0.jpg",
+					"name": "寒豹 新款韩版男士针织衫时尚休闲青年毛衣 B435-1",
+					"price": "￥129"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/5cf40f05-ddc8-4780-96fc-da15a7298cf7.jpg",
+					"name": "迈特宝 新款韩版男士减震运动时尚休闲跑步鞋 0211",
+					"price": "￥139"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/d2f4c22d-0108-442a-9ea6-969d74ec890f.jpg",
+					"name": "索里奥 男士反绒牛皮 时尚休闲鞋 9196-2 灰色 40码",
+					"price": "￥179"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/ef4a04ac-b896-46e1-805c-6847d79e4a3d.JPG",
+					"name": "衡润 珍珠吊坠8-8.5mm 娉婷 HR00449",
+					"price": "￥79"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/6e900db6-1c0e-4c14-9c4e-9c77e3efc73e.JPG",
+					"name": "珂紫小巧韩版女士气质石英手表 FH161125009",
+					"price": "￥119"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/3886f089-64d9-4d68-b545-b41c5a2fc72a.jpg",
+					"name": "南极人夏季新款睡裙纯棉印花短袖少女家具服棉质可爱",
+					"price": "￥79"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/617645ac-5309-43ba-afae-2ae82d845dec.jpg",
+					"name": "THCANO 啄木鸟 男士商务自动扣皮带 WDE33571A",
+					"price": "￥89"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/23583ac2-61d1-4179-abcc-5fd8e066188e.jpg",
+					"name": "浪莎 男士吸湿排汗薄棉袜ALNMW009 均码三双装",
+					"price": "￥59"
+				}
+			]
+		},
+		"links": {
+			"bg": "img/links/1F_LOGO.jpg",
+			"href": [
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#"
+			]
+		}
+	}, {
+		"title": "家用电器",
+		"cont": {
+			"side": {
+				"bt": [
+					{
+						"name": "电压力锅",
+						"href": "#"
+					}, {
+						"name": "电磁炉",
+						"href": "#"
+					}, {
+						"name": "加湿器",
+						"href": "#"
+					}, {
+						"name": "剃须刀",
+						"href": "#"
+					}, {
+						"name": "足浴盆",
+						"href": "#"
+					}, {
+						"name": "血压计",
+						"href": "#"
+					}
+				],
+				"bg": "img/shop/side/2k.jpg",
+				"href": "#"
+			},
+			"main": [
+				{
+					"href": "#",
+					"img": "img/shop/main/0a13dff2-8763-4cc2-a9e5-3fc433a5600b.jpg",
+					"name": "美的(Midea) 206升 时尚三门三温冰箱 BCD-206T",
+					"price": "￥1699"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/f1b0d43c-8d8f-45b9-9fc9-2d937544d7a9.jpg",
+					"name": "海尔(Haier) 8公斤 变频滚筒洗衣机 消毒剂 EG801",
+					"price": "￥2699"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/7a8c7607-10af-4899-8078-66b962795847.jpg",
+					"name": "苏泊尔(SUPOR) 1.7L全钢无缝电热水壶 SWF17E2",
+					"price": "￥149"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/900b1fc1-750d-4d33-8b58-3790c9a0edc9.jpg",
+					"name": "飞利浦(PHILIPS) d多功能手持式搅拌棒料理机 HR16",
+					"price": "￥299"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/5b6d9327-7a37-419c-9837-17285c62b936.jpg",
+					"name": "得力(deli)9010 台式温度计/温湿度计 大号",
+					"price": "￥39"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/bae4ddec-e05d-4d51-ab13-c36ae38e90c1.jpg",
+					"name": "华盛昌(CEM) 红外电子体温计 DT-88065",
+					"price": "￥169"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/aa1e2bfc-d98d-40e1-886b-642050d1fe9c.jpg",
+					"name": "POVO 奔腾 超值实用锐角刀头 剃须刀 PQ2601",
+					"price": "￥59"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/031b0043-e70f-4658-99cf-94e61a2029e3.jpg",
+					"name": "SID 超人 2000W 大功率电吹风 SF7371A",
+					"price": "￥79"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/c5d270b4-1359-4fb0-bdb0-835b23110fef.jpg",
+					"name": "炊大皇 32CM 珍珠永不锈玻盖炒锅 CKN9632YB",
+					"price": "￥88"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/e6d2577b-e068-451a-bf7d-6e2857dbedd7.jpg",
+					"name": "SEED 十度良品 SD-922双层不锈钢真空密闭点热饭",
+					"price": "￥79"
+				}
+			]
+		},
+		"links": {
+			"bg": "img/links/2F_LOGO.jpg",
+			"href": [
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#"
+			]
+		}
+	}, {
+		"title": "家居生活",
+		"cont": {
+			"side": {
+				"bt": [
+					{
+						"name": "床品套件",
+						"href": "#"
+					}, {
+						"name": "四季被",
+						"href": "#"
+					}, {
+						"name": "枕芯枕套",
+						"href": "#"
+					}, {
+						"name": "毛毯",
+						"href": "#"
+					}, {
+						"name": "床垫",
+						"href": "#"
+					}, {
+						"name": "雨具雨伞",
+						"href": "#"
+					}
+				],
+				"bg": "img/shop/side/3k.jpg",
+				"href": "#"
+			},
+			"main": [
+				{
+					"href": "#",
+					"img": "img/shop/main/773d0cc3-c989-45d7-a2cb-761b9f28b67d.jpg",
+					"name": "Tiantangsan 天堂伞 自开收高密拒水碰击布超轻三折",
+					"price": "￥42"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/de03dbab-4e79-4a91-a237-e3d425ee5f8f.jpg",
+					"name": "秋冬床品上新 博洋家纺 全棉幸福对枕(2只装)",
+					"price": "￥89"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/f647a656-5e3d-4dbf-9330-62794d9763fe.jpg",
+					"name": "南极人 纯天然冰丝夏凉被AB版空调被 小星星 656 2",
+					"price": "￥69"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/dfc8b826-3b93-49d2-802f-de04b3dad3ca.jpg",
+					"name": "摩亚活性印花全棉斜纹四件套 卡夫-蓝 1.5M-1.8M",
+					"price": "￥159"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/d5a3c7c9-bcfc-42c9-a7ad-8529726241c0.jpg",
+					"name": "北极绒 1.5-1.8米床 全棉斜纹四件套AB版 进口纯棉温",
+					"price": "￥99"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/b9ad40ab-9cdc-4c0e-9a2c-e5801cfba85d.jpg",
+					"name": "唐纳家纺全棉高密斜纹四件套",
+					"price": "￥318"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/d2f4d8d5-6584-4e08-bfaa-27cae413cc8a.jpg",
+					"name": "啵啵爱 三开门豪华宫廷蚊帐 紫色 1.5M",
+					"price": "￥139"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/65d0a657-7ad0-482f-aead-bbe73cb3b987.jpg",
+					"name": "摩亚 纯色健康纯棉浴巾 70*140CM 蓝色",
+					"price": "￥49"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/ac58feab-16f8-4068-824b-0445ebb1c36d.jpg",
+					"name": "骥龙 加厚内衣文胸防变形专用洗护袋(2只装)三角",
+					"price": "￥25"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/6b934c23-3c7b-475d-9d69-00a77f224a9d.jpg",
+					"name": "骥龙 纯天然老香樟木条 防虫蛀防霉 (30条装)",
+					"price": "￥46"
+				}
+			]
+		},
+		"links": {
+			"bg": "img/links/3F_LOGO.jpg",
+			"href": [
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#"
+			]
+		}
+	}, {
+		"title": "母婴玩具",
+		"cont": {
+			"side": {
+				"bt": [
+					{
+						"name": "清洁呵护",
+						"href": "#"
+					}, {
+						"name": "婴幼玩具",
+						"href": "#"
+					}, {
+						"name": "童车",
+						"href": "#"
+					}, {
+						"name": "妈咪服饰",
+						"href": "#"
+					}, {
+						"name": "婴童箱包",
+						"href": "#"
+					}, {
+						"name": "益智玩具",
+						"href": "#"
+					}
+				],
+				"bg": "img/shop/side/4k.jpg",
+				"href": "#"
+			},
+			"main": [
+				{
+					"href": "#",
+					"img": "img/shop/main/75fe9931-3689-4295-b649-fc9de1b71ba9.jpg",
+					"name": "Babycare体温枪FR800",
+					"price": "￥169"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/ec25ad0d-94fc-49bb-80f2-250f8724847b.jpg",
+					"name": "好孩子用品婴儿专用 湿巾组合 U6201(海洋水润湿",
+					"price": "￥45"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/1c5b26a1-4055-4772-bc87-3718f4550695.jpg",
+					"name": "好孩子用品 儿童防摔PPSU宝宝母乳实感奶瓶弧形新生",
+					"price": "￥89"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/1e1a3e28-533c-40d3-a0f2-53e85eb49871.jpg",
+					"name": "好孩子儿童自行车辅助轮童车12/14/16寸宝宝男女脚",
+					"price": "￥415"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/0c1c1df7-6eb6-4c20-928d-ec5e605d1baf.jpg",
+					"name": "Horigen 好女人 巧爱自动吸奶瓶 XN-2201MB/XH",
+					"price": "￥298"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/93a46d4d-077c-4473-9fef-140e7a26a665.jpg",
+					"name": "巴布豆(BOBDOG)冬款儿童加绒休闲鞋 高帮棉鞋",
+					"price": "￥79"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/d3c63fb4-1c1b-4f5e-807e-ebc24c82c0d2.jpg",
+					"name": "贝贝鸭 沙滩玩具8件套(多色混装,随机发货)",
+					"price": "￥28"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/35c28512-3338-40dc-8aaf-cdf93ed76373.jpg",
+					"name": "贝恩施(beiens)儿童益智玩具 水果蔬菜切切乐仿真",
+					"price": "￥35"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/fd5bbf1a-936e-4c49-becd-3c0d5fc3d235.jpg",
+					"name": "麦迪熊 麦欣欣(遥控板)故事机",
+					"price": "￥99"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/e578c823-346b-4ab9-bb02-fe60135fb3f4.jpg",
+					"name": "little tikes 小泰克 幼儿童车系列 3合1推行三轮车",
+					"price": "￥588"
+				}
+			]
+		},
+		"links": {
+			"bg": "img/links/4f_LOGO.jpg",
+			"href": [
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#"
+			]
+		}
+	}, {
+		"title": "运动户外",
+		"cont": {
+			"side": {
+				"bt": [
+					{
+						"name": "骑行运动",
+						"href": "#"
+					}, {
+						"name": "户外装备",
+						"href": "#"
+					}, {
+						"name": "纤体瑜伽",
+						"href": "#"
+					}, {
+						"name": "汽车用品",
+						"href": "#"
+					}, {
+						"name": "蓝牙设备",
+						"href": "#"
+					}, {
+						"name": "礼品箱包",
+						"href": "#"
+					}
+				],
+				"bg": "img/shop/side/5k.jpg",
+				"href": "#"
+			},
+			"main": [
+				{
+					"href": "#",
+					"img": "img/shop/main/7bce54ca-2e48-4002-b85a-e9c9d49fb100.jpg",
+					"name": "DANJUE 丹爵 头层牛皮休闲男包男士单肩包斜跨包韩",
+					"price": "￥219"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/9bef4fbd-4c97-44b2-9186-8c7f17d0fdc3.jpg",
+					"name": "DANJUE 丹爵 男士头层牛皮钱包 简约设计2折横款",
+					"price": "￥69"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/ed59cd5b-985e-4779-90e5-5a73c7cef639.jpg",
+					"name": "PB 801-20铝框PC拉杆箱/旅行箱/登机箱/海关密码箱",
+					"price": "￥550"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/ee53b974-8bd9-478d-b6e8-cb1a7bb26e31.jpg",
+					"name": "臻美萱 休闲时尚软包淑女包包斜跨单肩手提包 1606",
+					"price": "￥119"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/dd800fa1-096c-465e-ab98-8206c9386d1b.jpg",
+					"name": "JOSEPHAMANI 卓梵阿玛尼 男士钱包真皮钱夹牛皮",
+					"price": "￥198"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/70daa812-f04c-4500-9b27-c7e8e395b2b5.jpg",
+					"name": "凤凰 YE2106-8T 植玛诺单车变速山地车 铝合金碟刹",
+					"price": "￥749"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/712232bd-6e64-41f0-b4b2-dd0790e1de3d.jpg",
+					"name": "wissblue 维仕蓝 WD5030 超轻便携休闲折叠椅 户",
+					"price": "￥149"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/8ad3d902-99c7-415a-985e-fe8862f45f3b.jpg",
+					"name": "德国司顿420ml 双层不锈钢保温杯 STY024BK",
+					"price": "￥99"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/b213d961-6be6-4fce-9591-d7b821d1b07e.jpg",
+					"name": "HASKY-LR-M2-Z强光手电筒LED可充电迷你家用户",
+					"price": "￥69"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/8dd8e51c-536c-436d-9f2b-c621e5fb75b5.jpg",
+					"name": "致奥 智能蓝牙耳机 通用蓝牙4.1蓝牙眼镜 语音报号可",
+					"price": "￥139"
+				}
+			]
+		},
+		"links": {
+			"bg": "img/links/5k_LOGO.jpg",
+			"href": [
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#"
+			]
+		}
+	}, {
+		"title": "个户美妆",
+		"cont": {
+			"side": {
+				"bt": [
+					{
+						"name": "洗发护发",
+						"href": "#"
+					}, {
+						"name": "身体沐浴",
+						"href": "#"
+					}, {
+						"name": "魅力彩妆",
+						"href": "#"
+					}, {
+						"name": "面膜专场",
+						"href": "#"
+					}, {
+						"name": "秋冬套装",
+						"href": "#"
+					}, {
+						"name": "面部护理",
+						"href": "#"
+					}
+				],
+				"bg": "img/shop/side/6k.jpg",
+				"href": "#"
+			},
+			"main": [
+				{
+					"href": "#",
+					"img": "img/shop/main/03b01155-41d5-44eb-bb2c-b023a1f33099.jpg",
+					"name": "韩束 玻尿酸补水面贴膜 23ml*10片",
+					"price": "￥39"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/e643c6ab-509d-4215-adc5-b0d2c050f470.jpg",
+					"name": "师夷家 男士清爽矿物护肤三件套",
+					"price": "￥79"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/290f7590-0ee8-44a6-ba55-6519ee9d8328.jpg",
+					"name": "御泥坊 亮颜水润丝宠面膜套装21片",
+					"price": "￥138"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/e6d4e9df-3f07-4466-af95-827a0fd6242a.jpg",
+					"name": "金纺青苹绿悠衣物柔顺剂 1公升(香港进口)",
+					"price": "￥30"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/670119a0-b979-4e2d-9d2e-0814b4eb5006.jpg",
+					"name": "多芬DOVE 沐浴乳 清透水润400ml+丰盈宠肤150ml",
+					"price": "￥39"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/aa4740e1-b319-41d3-b3b0-1c326d3a78f4.jpg",
+					"name": "相宜本草 红景天养白套装",
+					"price": "￥169"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/b9797931-eb6d-44e0-bcd6-3c97fcfa6e1d.jpg",
+					"name": "伊诗兰顿薰衣草蒸汽眼罩10片/盒改善黑眼圈舒缓疲",
+					"price": "￥39.9"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/00bcadf3-9e95-49b5-89b5-897c258ef5b5.jpg",
+					"name": "曼秀雷敦 男士洁面乳2支装",
+					"price": "￥19"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/d2173d49-137c-4490-bee5-f12afe9d0285.jpg",
+					"name": "欧诗漫 营养美肤悦颜礼盒",
+					"price": "￥89"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/5c9f8908-8e14-4e12-b1e4-71c7243bffb3.jpg",
+					"name": "御泥坊 红石榴超值鲜活10件套",
+					"price": "￥95"
+				}
+			]
+		},
+		"links": {
+			"bg": "img/links/6k_LOGO.jpg",
+			"href": [
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#"
+			]
+		}
+	}, {
+		"title": "食品保健",
+		"cont": {
+			"side": {
+				"bt": [
+					{
+						"name": "营养保健",
+						"href": "#"
+					}, {
+						"name": "茗茶",
+						"href": "#"
+					}, {
+						"name": "休闲食品",
+						"href": "#"
+					}, {
+						"name": "年货礼盒",
+						"href": "#"
+					}, {
+						"name": "酒水饮料",
+						"href": "#"
+					}, {
+						"name": "饼干糕点",
+						"href": "#"
+					}
+				],
+				"bg": "img/shop/side/7k.jpg",
+				"href": "#"
+			},
+			"main": [
+				{
+					"href": "#",
+					"img": "img/shop/main/a9625244-258a-4681-805a-8795be3dc43f.jpg",
+					"name": "VQA辉煌晚收精品红冰葡萄酒",
+					"price": "￥299"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/cc298d2d-75d8-4f48-838e-447c08cf52ac.jpg",
+					"name": "郎酒 50度四星嘉宾郎500ml",
+					"price": "￥89"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/9661a0be-56df-4587-bc32-10c7a7ae698b.jpg",
+					"name": "大润谷丹麦风味曲奇 280G/盒(两盒装)",
+					"price": "￥39.9"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/678794fa-5b9f-4094-b081-a30aa39033e7.jpg",
+					"name": "南兴天虹牌盐焗开心果 500g",
+					"price": "￥69"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/2b1cdee8-b743-4c41-86e1-3bc73f1251c7.jpg",
+					"name": "八马茶业 云南 原生普洱熟茶饼 天野原香(栆香)礼盒",
+					"price": "￥138"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/82a85c58-ba35-4cdf-8d32-6a8856f1dee9.jpg",
+					"name": "自制纯手工补气血阿胶糕1kg礼盒装",
+					"price": "￥376"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/67673f29-0d04-4a25-b836-ca66f9f94513.jpg",
+					"name": "烟台苹果水果新鲜山东栖霞红富士5斤包邮",
+					"price": "￥29.8"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/01cb0ebe-94f4-4c04-8c56-99b33b219c07.jpg",
+					"name": "牛厨零食 泡椒味鸭脖 200g/袋(两袋装)",
+					"price": "￥42.6"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/e03147a0-fde9-4360-81a1-923c93514587.jpg",
+					"name": "鹿予桂花味牛轧糖150gX2",
+					"price": "￥48"
+				}, {
+					"href": "#",
+					"img": "img/shop/main/ebe84d50-94cd-47b8-8340-6a954bdf7170.JPG",
+					"name": "正宗微山湖麻雀蛋,出口级,30枚/盒 蛋黄油大,咸香",
+					"price": "￥108"
+				}
+			]
+		},
+		"links": {
+			"bg": "img/links/7f_LOGO.jpg",
+			"href": [
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#",
+				"#"
+			]
+		}
+	}
+]

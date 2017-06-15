@@ -1,0 +1,291 @@
+body,html,ul,p,h2,h3,hr{
+	padding: 0;
+	margin: 0;
+}
+body{
+	font-size: 12px;
+	font-family: "微软雅黑";
+}
+img{
+	display: block;
+	border: 0;
+}
+ul,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.clearfix:after{
+	content: "";
+	display: block;
+	clear: both;
+	height: 0;
+	overflow: hidden;
+	visibility: hidden;
+}
+/*公共顶部*/
+#header{
+	width: 100%;
+	height: 30px;
+	background: #ededed;
+	line-height: 30px;
+	color: gray;
+}
+#header ._header{
+	width: 1200px;
+	margin: 0 auto;
+}
+#header ._header-l:hover{
+	color: darkred;
+}
+#header ._header-r{
+	float: right;
+}
+#header ._header-r li{
+	float: left;
+	width: 70px;
+	padding: 0 5px;
+	position: relative;
+	z-index: 10;
+}
+#header ._header-r a{
+	color: gray;
+}
+#header ._header-r b{
+	padding: 2px 5px;
+	font-size: 0;
+	position: relative;
+	top:-4px;
+	left:3px;
+	background: url(../img/global/sl_sitenav.png) no-repeat;
+}
+#header ._header-r span{
+	padding: 5px 1px;
+	position: relative;
+	left: 8px;
+	background: url(../img/global/sl_sitenav.png) no-repeat -10px center;
+}
+#header ._header .ind_user a:hover{
+	color: red;
+}
+#header ._header .ind_nav a:hover{
+	color: red;
+}
+#header .ind_user{
+	display: none;
+}
+#header .ind_nav{
+	display: none;
+}
+
+#header ._header-r .user:hover{
+	background: white;
+	border: 1px solid gray;
+	border-top:0;
+}
+#header ._header-r .nav:hover{
+	background: white;
+	border: 1px solid gray;
+	border-top:0;
+}
+#topA,#topB{
+	transition: all 1s;
+}
+#header ._header-r .user:hover .ind_topA{
+	transform: rotate(180deg);
+}
+#header ._header-r .user:hover .ind_topB{
+	transform: rotate(180deg);
+}
+#header ._header-r .user:hover .ind_user{
+	display: block;
+}
+
+#header ._header-r .nav:hover .ind_nav{
+	display: block;
+}
+
+/*logo&搜索*/
+#logo{
+	width: 1200px;
+	height: 88px;
+	margin: 0 auto;
+	padding-top:12px;
+	position: relative;
+}
+#logo a{
+	display: inline-block;
+	width: 300px;
+}
+#logo .search_menu{
+	position: absolute;
+	left: 330px;
+	top:25px;
+}
+#logo .search_in{
+	width: 345px;
+	height: 28px;
+	border: 1px solid #c7012c;
+	float: left;
+	padding-left: 5px;
+}
+#logo .search_bt{
+	width: 80px;
+	height: 32px;
+	background: #c7012c;
+	color: white;
+	border: 0;
+	float: left;
+	font-size: 18px;
+}
+#logo .search_bt:hover{
+	cursor: pointer;
+}
+/*商品导航与购物车*/
+#shop_nav{
+	width: 1200px;
+	height: 40px;
+	margin: 0 auto;
+	background: #c7012c;
+	color: white;
+	margin-bottom: 10px;
+}
+#shop_nav a{
+	color: white;
+	font-size: 17px;
+	display: inline-block;
+	line-height: 40px;
+	padding: 0 5px;
+}
+#shop_nav a:hover{
+	color: yellow;
+}
+#shop_nav .menu{
+	width: 175px;
+	padding-left:25px;
+	position: relative;
+	color: white;
+}
+#shop_nav .menu:hover{
+	color: white;
+}
+#shop_nav .menu:hover b{
+	transform: rotate(0);
+}
+#shop_nav .menu b{
+	position: absolute;
+	width: 19px;
+	height:21px;
+	right: 10px;
+	top:12px;
+	background: url(../img/nav_arrow.png);
+	transform: rotate(-185deg);
+	transition: all 0.3s;
+}
+#shop_nav .milk{
+	background: url(../img/global/sl_header_new.gif) no-repeat right top;
+}
+#shop_nav .agglo{
+	background: url(../img/global/sl_header_hot.gif) no-repeat right top;
+}
+#shop_nav .shopper{
+	width:166px;
+	height: 35px;
+	float: right;
+	background: url(../img/global/sl_header_980.png);
+	background-position: 0 -65px;
+	position: relative;
+	padding-left: 40px;
+	color: #333333;
+	font-size: 13px;
+	line-height: 45px;
+}
+#shop_nav .shopper:hover{
+	cursor: pointer;
+}
+#shop_nav .amount{
+	color: #c7012c;
+	font-weight: bold;
+}
+
+#shop_nav .account{
+	font-size: 13px;
+	float: right;
+	margin-right: 23px;
+	margin-top: 3px;
+}
+/*公共底部*/
+#footer{
+	width: 980px;
+	margin: 20px auto;
+}
+#footer .outstanding{
+	height: 44px;
+	border: 1px solid gray;
+	line-height: 44px;
+	padding: 0 30px;
+}
+#footer .outstanding b{
+	font-size: 18px;
+	color: #d93c50;
+	margin-right: 20px;
+}
+#footer .outstanding span{
+	font-size: 17px;
+	color: gray;
+	margin-right: 105px;
+}
+#footer .menu{
+	height: 145px;
+	margin: 25px 0;
+}
+#footer .menu li{
+	width: 137px;
+	height: 150px;
+	float: left;
+	border-right: 1px solid lightgrey;
+	position: relative;
+}
+#footer .menu .contact{
+	width: 245px;
+	color: gray;
+	padding: 30px 0 0 35px;
+	height: 120px;
+	line-height: 25px;
+}
+#footer .contact span{
+	color: black;
+	font-size: 14px;
+}
+#footer .time{
+	position: absolute;
+	left: 100px;
+	bottom: 0;
+}
+#footer .time a{
+	color: orange;
+}
+#footer .list li{
+	height: 20px;
+	margin-left: 15px;
+	border: 0;
+	line-height: 25px;
+}
+#footer .list .title{
+	font-size: 16px;
+	color: black;
+}
+#footer .list a{
+	color: darkgrey;
+}
+#footer .list a:hover{
+	color: blue;
+}
+#footer a{
+	color: black;
+}
+#footer p{
+	line-height: 20px;
+	color: gray;
+}

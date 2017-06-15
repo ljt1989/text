@@ -1,0 +1,306 @@
+/*横幅轮播图*/
+#ind_banner{
+	height: 480px;
+	width: 100%;
+	position: relative;
+	margin-bottom: 20px;
+}
+#ind_banner .slide{
+	width: 1200px;
+	height: 100%;
+	position: relative;
+	margin:0 auto;
+	overflow: hidden;
+}
+#ind_banner .slide:hover{
+	cursor: pointer;
+}
+#ind_banner .slide:hover .prev{
+	opacity: 1;
+	filter: alpha(opacity:100);
+}
+#ind_banner .slide:hover .next{
+	opacity: 1;
+	filter: alpha(opacity:100);
+}
+#ind_banner .slide li{
+	position: absolute;
+	left:-355px;
+}
+#ind_banner .slide .active{
+	z-index: 10;
+}
+#ind_banner .slide .control{
+	padding-top:450px;
+	height: 30px;
+	width: 1200px;
+	margin:0 auto;
+	position: relative;
+}
+#ind_banner .slide .prev{
+	display: block;
+	position: absolute;
+	left:195px;
+	top:210px;
+	width: 45px;
+	height: 60px;
+	background: url(../img/banner/pre.png);
+	z-index: 100;
+	opacity: 0;
+	filter: alpha(opacity:0);
+	transition: all 1s;
+}
+#ind_banner .slide .next{
+	display: block;
+	position: absolute;
+	right:230px;
+	top:210px;
+	width: 45px;
+	height: 60px;
+	background: url(../img/banner/next.png);
+	z-index: 100;
+	opacity: 0;
+	filter: alpha(opacity:0);
+	transition: all 1s;
+}
+/*页码*/
+#ind_banner .slide .pages{
+	height: 15px;
+	margin: 0 auto;
+	position: relative;
+}
+#ind_banner .slide .pages li{
+	width: 45px;
+	height: 15px;
+	background: gray;
+	margin-right: 3px;
+	float: left;
+	position:relative;
+	z-index: 100;
+	left:0;
+}
+#ind_banner .slide .pages .active{
+	background: #f37049;
+}
+/*横幅内容*/
+#ind_banner .cont{
+	width: 1200px;
+	height: 100%;
+	margin: 0 auto;
+	position: relative;
+	top:-480px;
+}
+/*商品分类*/
+#ind_banner .shops{
+	width: 190px;
+	height: 100%;
+	background: #2a2a2a;
+	position: absolute;
+	z-index: 100;
+	color: white;
+	overflow: auto;
+}
+#ind_banner .shops li a{
+	color: white;
+	font-size: 16px;
+	display: block;
+	line-height: 34px;
+	text-align: center;
+}
+#ind_banner .shops li:hover{
+	background: #d92121;
+}
+/*消息*/
+#ind_banner .news{
+	width: 225px;
+	height: 100%;
+	position: absolute;
+	z-index: 100;
+	right: 0;
+}
+#ind_banner .red{
+	color: red;
+}
+#ind_banner .black{
+	color: black;
+}
+#ind_banner .gray{
+	color: gray;
+}
+#ind_banner .news a:hover{
+	color: red;
+}
+
+#ind_banner .news p{
+	text-align: center;
+	background: white;
+	border-bottom: 1px solid lightgray;
+}
+#ind_banner .news p a{
+	line-height: 39px;
+	font-size: 16px;
+	display: inline-block;
+	width: 100px;
+	background: url(../img/banner/news.png) no-repeat 5px center;
+}
+#ind_banner .news .info{
+	height: 100px;
+	padding: 20px;
+	background: rgba(255,255,255,0.7);
+}
+#ind_banner .news li{
+	line-height: 20px;
+}
+/*每日秒杀*/
+#dayShow{
+	width: 1200px;
+	margin: 0 auto;
+	border-top:3px solid #545454;
+}
+#dayShow .show{
+	height: 360px;
+	background: url(../img/dayShow/dayShow.png);
+	box-shadow:0 -1px 5px gray;
+	padding-left:10px ;
+}
+#dayShow .title{
+	width: 100%;
+	line-height: 28px;;
+	text-align: center;
+}
+#dayShow .title a{
+	color: red;
+	font-size: 15px;
+	font-weight: bold;
+}
+#dayShow .show li{
+	float: left;
+	margin-right: 13px;
+}
+#dayShow .show li img{
+	width: 225px;
+	height: 225px;
+}
+#dayShow .show .info{
+	width: 207px;
+	height: 62px;
+	padding-left:18px;
+	padding-top:8px;
+	line-height: 30px;
+	color: white;
+	font-size: 15px;
+	background: #ff464e;
+	position: relative;
+	font-weight: bold;
+}
+#dayShow .show .info .n_price{
+	font-size: 20px;
+}
+#dayShow .show .info .o_price{
+	margin-left: 15px;
+	text-decoration: line-through;
+}
+#dayShow .show .info b{
+	display: block;
+	width: 90px;
+	height: 90px;
+	background: url(../img/dayShow/but-msz.png);
+	position: absolute;
+	right: 5px;
+	bottom: 8px;
+}
+/*主体*/
+#ind_main{
+	width: 1200px;
+	margin: 0 auto;
+}
+#ind_main .cont{
+	width: 100%;
+	height: 665px;
+}
+#ind_main .cont h2{
+	line-height: 35px;
+	border-bottom: 2px solid black;
+}
+#ind_main .cont .side{
+	padding-top:35px;
+	width: 210px;
+	height: 520px;
+	float: left;
+}
+#ind_main .cont .side li{
+	float: left;
+	margin: 3px 6px;
+	background: url(../img/shop/side/btm.png);
+	background-position: 0 -440px;
+}
+#ind_main .cont .bt{
+	display: block;
+	text-align: center;
+	line-height: 60px;
+	color: black;
+	height: 60px;
+	width: 55px;
+	border-radius: 22px;
+}
+
+#ind_main .cont .type{
+	width: 100%;
+	height: 390px;
+	display: block;
+}
+#ind_main .cont .main{
+	width: 990px;
+	margin-left: 210px;
+}
+#ind_main .cont .main ul{
+	height: 240px;
+	padding: 18px 0;
+	border-bottom: 1px solid lightgray;
+}
+#ind_main .cont .main li{
+	width: 150px;
+	height: 245px;
+	float: left;
+	border-right: 1px solid lightgray;
+	padding: 0 23px;
+	background: url(../img/shop/main/but.png) no-repeat 125px bottom;
+}
+#ind_main .cont .main li a{
+	display: block;
+	width: 150px;
+	height: 100%;
+}
+#ind_main .cont .good{
+	width: 150px;
+	height: 150px;
+	margin-bottom: 5px;
+	color: black;
+}
+#ind_main .cont .name{
+	line-height: 20px;
+	font-weight: bold;
+	color: black;
+	height: 40px;
+}
+#ind_main .cont .price{
+	font-size: 25px;
+	color: #e30303;
+	font-weight: bold;
+	line-height: 55px;
+	margin-left: 10px;
+}
+#ind_main .cont .links{
+	margin-top:8px;
+	height: 64px;
+	width: 100%;
+}
+
+#ind_main .cont .links a{
+	float: left;
+	width: 120px;
+	height: 100%;
+}
+#ind_main .cont .links a:hover{
+	background: url(../img/links/love.png) no-repeat 105px 5px;
+}

@@ -1,0 +1,104 @@
+/*修改搜索框样式*/
+#logo .search_menu{
+	border:4px solid lightgray;
+}
+#logo .search_in{
+	width: 445px;
+}
+/*修改全部商品分类样式*/
+#shop_nav .menu{
+	width: 200px;
+	margin-right: 10px;
+}
+/*横幅*/
+#ban_banner{
+	width: 1200px;
+	height: 450px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+/*主体商品展示*/
+#banner_cont{
+	width: 1200px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+#banner_cont .bottom{
+	text-align: center;
+	line-height: 60px;
+	color: white;
+	font-size: 18px;
+	background: url(../img/banner_bot.png);
+}
+#banner_cont .cont{
+	margin-top: 10px;
+	padding: 0 0 15px 10px;
+	background-color: #ff9900;
+	overflow: hidden;
+}
+#banner_cont .cont h2{
+	color: white;
+	width: 1180px;
+	font-size: 30px;
+	line-height: 50px;
+	border-bottom: 1px solid white;
+	background: url(../img/banner_goods/floorPro_titlebg.png) no-repeat left top;
+}
+#banner_cont .cont li{
+	padding: 15px;
+	width: 198px;
+	height: 290px;
+	background-color: white;
+	float: left;
+	margin:10px 10px 0 0;
+	transition: all 0.5s;
+}
+#banner_cont .cont li:hover{
+	transform: translateY(-5px);
+	box-shadow: 0 0 10px black;
+}
+#banner_cont .good{
+	display: block;
+	width: 100%;
+	height: 175px;
+	text-align: center;
+	overflow: hidden;
+}
+#banner_cont .good img{
+	margin:20px auto;
+}
+#banner_cont a{
+	color: black;
+}
+#banner_cont a:hover{
+	text-decoration: underline;
+}
+#banner_cont .cont p{
+	color: #f65c56;
+	height: 20px;
+}
+#banner_cont .cont .name{
+	height: 35px;
+}
+#banner_cont .cont span{
+	color: gray;
+	font-size: 13px;
+}
+#banner_cont .cont b{
+	color: #f65c56;
+	font-size: 20px;
+}
+#banner_cont .buy{
+	display: block;
+	width: 190px;
+	line-height: 35px;
+	background-color: #f65c56;
+	color: white;
+	font-size: 14px;
+	text-align: center;
+	margin-top:5px;
+}
+#banner_cont .buy:hover{
+	background-color: red;
+	text-decoration: none;
+}

@@ -1,0 +1,124 @@
+/*修改二级菜单下拉标识*/
+#shop_nav .menu b{
+	transform: rotate(0);
+}
+#shop_nav .menu:hover b{
+	transform: rotate(185deg);
+}
+
+/*二级菜单*/
+
+#shop_nav .sec_menu{
+	width: 230px;
+	position: absolute;
+	z-index: 100;
+	top:40px;
+	left:0;
+	list-style: square;
+	background: white;
+	list-style-position: inside;
+	color: black;
+	border: 1px solid #c7022d;
+	display: none;
+}
+
+#shop_nav .sec_menu li{
+	position: relative;
+	width: 205px;
+	height: 50px;
+	line-height: 50px;
+	border-bottom: 1px solid #f8d4bc;
+	margin-bottom: 1px;
+	padding-left: 25px;
+	background:url(../img/sec_arrow.png) no-repeat 200px center #ffefe0;
+}
+#shop_nav .sec_menu .typeMenu .active{
+	margin:-2px 0 0 -2px;
+	height: 49px;
+	background: white;
+	border: 2px solid #c7022d;
+	border-right: 0;
+	padding-right: 2px;
+	z-index: 10;
+}
+#shop_nav .sec_menu a{
+	color: black;
+	font-size: 15px;
+}
+#shop_nav .sec_menu a:hover{
+	color: red;
+	text-decoration: underline;
+}
+#shop_nav .cont{
+	width: 730px;
+	height: 215px;
+	border: 2px solid #c7022d;
+	position: absolute;
+	left:230px;
+	top:-2px;
+	background: white;
+	min-height: 215px;
+	height: auto;
+	color: gray;
+	display: none;
+}
+#shop_nav  .cont a{
+	font-size: 13px;
+	color: gray;
+}
+#shop_nav .cont a:hover{
+	color: red;
+}
+#shop_nav .cont .main{
+	width: 505px;
+	list-style: disc;
+	list-style-position: outside;
+	overflow: hidden;
+	height: 0;
+}
+
+#shop_nav .cont .main li{
+	width: 20px;
+	width: auto;
+	height: 50px;
+	float: left;
+	font-size: 12px;
+	padding-left: 0;
+	margin: 0 0 0 20px;
+	background: white;
+	border: 0;
+}
+
+#shop_nav .side{
+	position: absolute;
+	right: 0;
+	top:0;
+	width: 225px;
+	height: 215px;
+	margin-left: 505px;
+	background-color: #ffefe0;
+}
+#shop_nav .side a{
+	line-height: 25px;
+}
+#shop_nav .side td{
+	padding-left: 20px;
+}
+#shop_nav .side .title{
+	font-weight: bold;
+	color: #c7022d;
+	font-size: 15px;
+	position: relative;
+}
+#shop_nav .close{
+	display: block;
+	width: 12px;
+	height: 12px;
+	background: url(../img/close.png);
+	position: absolute;
+	right: 2px;
+	top:2px;
+}
+#shop_nav .close:hover{
+	cursor: pointer;
+}
